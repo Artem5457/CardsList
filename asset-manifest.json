@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/CardsList/static/js/main.f5ce70fd.js",
+    "index.html": "/CardsList/index.html",
+    "main.f5ce70fd.js.map": "/CardsList/static/js/main.f5ce70fd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f5ce70fd.js"
+  ]
+}
