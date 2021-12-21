@@ -1,0 +1,30 @@
+* {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol, ul, summary {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
