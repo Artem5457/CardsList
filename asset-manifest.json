@@ -1,10 +1,24 @@
 {
   "files": {
-    "main.js": "/CardsList/static/js/main.f5ce70fd.js",
+    "main.css": "/CardsList/static/css/main.cd0ef0c3.chunk.css",
+    "main.js": "/CardsList/static/js/main.97158a0b.chunk.js",
+    "main.js.map": "/CardsList/static/js/main.97158a0b.chunk.js.map",
+    "runtime-main.js": "/CardsList/static/js/runtime-main.994ae3b7.js",
+    "runtime-main.js.map": "/CardsList/static/js/runtime-main.994ae3b7.js.map",
+    "static/js/2.b35dc406.chunk.js": "/CardsList/static/js/2.b35dc406.chunk.js",
+    "static/js/2.b35dc406.chunk.js.map": "/CardsList/static/js/2.b35dc406.chunk.js.map",
     "index.html": "/CardsList/index.html",
-    "main.f5ce70fd.js.map": "/CardsList/static/js/main.f5ce70fd.js.map"
+    "static/css/main.cd0ef0c3.chunk.css.map": "/CardsList/static/css/main.cd0ef0c3.chunk.css.map",
+    "static/js/2.b35dc406.chunk.js.LICENSE.txt": "/CardsList/static/js/2.b35dc406.chunk.js.LICENSE.txt",
+    "static/media/ArrowLeft.5ab17a18.svg": "/CardsList/static/media/ArrowLeft.5ab17a18.svg",
+    "static/media/ArrowRight.da47d01a.svg": "/CardsList/static/media/ArrowRight.da47d01a.svg",
+    "static/media/Calendar.33c04436.svg": "/CardsList/static/media/Calendar.33c04436.svg",
+    "static/media/Search.fa665393.svg": "/CardsList/static/media/Search.fa665393.svg"
   },
   "entrypoints": [
-    "static/js/main.f5ce70fd.js"
+    "static/js/runtime-main.994ae3b7.js",
+    "static/js/2.b35dc406.chunk.js",
+    "static/css/main.cd0ef0c3.chunk.css",
+    "static/js/main.97158a0b.chunk.js"
   ]
 }
